@@ -1,0 +1,36 @@
+#CDK
+CDK_build
+
+# Xcode
+*.pbxuser
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.xcuserstate
+*.xcworkspace/
+xcuserdata
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+profile
+DerivedData
+.idea/
+*/build/*
+.DS_Store
+*.build
+/build/
+build/
+*.o
+*.LinkFileList
+*.hmap
+
+#Auto backup files
+*~.nib/
+*.swp
+*~
+*.dat
+*.dep
+*.moved-aside
