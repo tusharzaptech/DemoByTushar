@@ -1,0 +1,67 @@
+1) In Stopwatch, Lap is displayed with the oldest first, then number 2, 3, etc..
+Brian would like for the newest added Lap to be the first on the list, so we
+should reverse the showing of Laps in the list, from oldest in top -> to newest in top.
+
+Zaptech : Done
+
+2) "Share this app" does not work (maybe on purpose??)
+Zaptech : What’s not working in share ? We are just opening Email / Facebook window blank . send us text you want to share.
+
+3) If I try to add playlist "My Favorites" which is a standard in Iphone standard Music app, the App crashes.
+Zaptech:
+
+4) When playing from SOME playlists the "play / pause" button does not work. Have not been able to find a system in this error - it happens randomly.
+Zaptech :
+
+5) Iphone goes in sleep mode when using the App - as already mentioned the App should always stay active and only close using Iphone Home button...
+Zaptech : Done
+
+6) In the play area, user can in top of the screen, select "wheel" on the left and "Playlist" on the right.
+If you press "Playlist" it sends user into Iphone standard Music app again. This should open the playlist already being played,
+so that user quickly can jump to a different song in the same playlist.
+Zaptech :
+
+7) If you have added ex. 3 playlists to "my favorite playlist" and then delete the second last added
+- goes out of "my favorite playlist", and then back again, it has erased the last added instead of the one actually deleted.
+Zaptech :
+
+8) I have a couple of times experienced that when adding the playlist "Recently Added" which is also a standard in Iphone standard Music app,
+this playlist ("Recently Added") is overwritten by other playlist.
+Zaptech :
+
+9) "Stopwatch" resets when selecting new Playlist - this is not appropriate as it happens during a session/spinning-class that instructor have to change "CD"
+or in this case Playlist so you still need the same management of the time. This leads to the following additions to "settings"
+which we agreed would come during the development of the Music App:
+
+User can choose following options for
+
+Stopwatch:
+
+A) Never Reset.
+B) Reset by new Playlist.
+C) Reset if the App is inactive for 60 minutes.
+D) Starts automatically when hitting GO
+E) Follow the play/pause function
+F) Reset to default settings.  
+
+Zaptech :
+
+
+
+
+
+10) It seems that the app retrieves old data from Iphone standard Music app
+ - It shows old songs from ex. the standard album "Most Played" or other themes that no longer exists.
+These songs obviously can not be played faced with "GO".
+Zaptech : 
+
+11) It is annoying that under "add playlist" user can not see the playlists he/she already added to the App (Favourite playlist).
+My suggestion is to make the "ADD" button in the list "grey" on the playlists that has already been added.
+Zaptech : 
+
+
+12) If I start playing a playlist and then goes back to "Wheel" the playlist keeps playing, WHICH IS OK,
+but if I then Add a new playlist to "Wheel" the playlist (playing now) stops playing. The playlist already
+playing should not stop until user hits GO. Overall user should be able to move around the App,
+without disturbing/interfere with the "Play Area" - only when hitting GO, the playlist playing will stop.
+Zaptech : 
